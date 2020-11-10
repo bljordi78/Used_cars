@@ -7,3 +7,8 @@
 # #R
 # #EDA
 # #REGRESSION TECHNIQUES COMPARISON
+
+The repository includes:
+- zip file with the datasets used
+- code file for each of the 3 datasets
+- report presenting the results
